@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luann0233&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann0233&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanNascimentoRocha&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanNascimentoRocha&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -39,7 +39,7 @@
   <a href = "mailto:luannrocha.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-nascimento-rocha-707754190" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Luann0233/Luann0233/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuanNascimentoRocha/LuanNascimentoRocha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
